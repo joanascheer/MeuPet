@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meu Pet</string>
+    <string name="title_meu_pet">Essa é a foto do meu pet</string>
+    <string name="baleia_jubarte_description">Baleia da espécie Jubarte nadando em meio ao oceano azul</string>
+    <string name="pet_information_name">Nome do pet: Márcia</string>
+    <string name="pet_information_species">Raça do pet: Jubarte</string>
+    <string name="pet_information_age">Idade do pet: 1 ano</string>
+    <string name="message_when_click">Oi, meu nome é Márcia!</string>
+    <string name="button_message">Mensagem</string>
+</resources>
